@@ -1,0 +1,8 @@
+res://default_bus_layout.tres
+res://Visualizer.tres
+res://MainPlayer.gd
+res://Visualizer.gd
+res://MainPlayer.tscn
+res://VGM_AudioEngine.gd
+res://VGM_Database.gd
+res://VGM_MainDeck.gd

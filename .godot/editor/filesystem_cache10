@@ -1,0 +1,14 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1783919298
+MainPlayer.tscn::PackedScene::274149800831591511::1783919348::0::1::::<><><>0<>0<><>::uid://d2ntjkk2ylhvk::::res://MainPlayer.gd
+VGM_MainDeck.gd::GDScript::9082367977057476776::1783919348::0::1::::<>Control<><>0<>0<><>::
+VGM_AudioEngine.gd::GDScript::3965907874719277929::1783919349::0::1::::<>Node<><>0<>0<><>::
+VGM_Database.gd::GDScript::4183912394542308848::1783919349::0::1::::<>Node<><>0<>0<><>::
+Visualizer.gd::GDScript::3609021111191781771::1783908484::0::1::::<>Control<><>0<>0<><>::
+Visualizer.tres::AudioBusLayout::7250848545619670723::1783908484::0::1::::<><><>0<>0<><>::
+::res://Images/::1783916179
+American Box Art.jpg::CompressedTexture2D::4341357880882689318::1783915918::1783916179::1::::<><><>0<>0<>2baf650a6f7de1d9f7fa7a620bb98e2b<>res://.godot/imported/American Box Art.jpg-064e2f6dcf38fbe4d5294a953a3b43ed.ctex::
+European Box Art 1.jpg::CompressedTexture2D::3813412377061736581::1783915918::1783916179::1::::<><><>0<>0<>414357b3b69ef463435795fd7ba4b176<>res://.godot/imported/European Box Art 1.jpg-918d36dacee72cdcd731448f73656c17.ctex::
+European Box Art 2.jpg::CompressedTexture2D::7301741388478990645::1783915918::1783916179::1::::<><><>0<>0<>753af466576fd3e941eac1a08dde12d9<>res://.godot/imported/European Box Art 2.jpg-69935c02895722d9d533e2b02d6cb3a6.ctex::
+Japanese Box Art.jpg::CompressedTexture2D::3245557884663093872::1783915918::1783916179::1::::<><><>0<>0<>36947695dfb7a0739dcfb96b2104f676<>res://.godot/imported/Japanese Box Art.jpg-a1555cb96a35a79d549171cb005c6086.ctex::
+Title Screen.png::CompressedTexture2D::8197120382218611794::1783915918::1783916179::1::::<><><>0<>0<>47e61aa434e61183b45e39ea03b3d5bb<>res://.godot/imported/Title Screen.png-43bea1c82ccf4dd86dab3af9cb243366.ctex::
